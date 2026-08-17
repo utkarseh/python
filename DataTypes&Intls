@@ -1,0 +1,9 @@
+age1=10
+age2=50
+age3=age1+age2
+print(age3)
+print(age1-age2)
+print(age1*age2)
+print(age1/age2)
+print(age1%age2)
+print(age2%age1)
