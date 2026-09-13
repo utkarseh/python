@@ -1,0 +1,6 @@
+f = open("testfile.txt","w")
+f.write("heyt bro whats upp for todayy")
+print(f.write("heyt bro /n whats upp for todayy"))
+f.close()
+f=open("testfile.txt","r")
+print(f.read())
