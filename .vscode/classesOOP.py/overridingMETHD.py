@@ -6,3 +6,4 @@ class child(parent):
            print("This a child function")
 c=child()
 c.func()
+#hainn
