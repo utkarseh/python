@@ -1,5 +1,1 @@
-#broskii
-#letssgo
-a=4
-b=7
-print(a+b)
+#simply create and save a file in plain text using text editor.
