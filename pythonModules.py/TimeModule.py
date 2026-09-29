@@ -6,3 +6,4 @@ def numbers(max):
         print(i)
         time2=time.time()
         print(str(time2-time1))
+print (69+67)
