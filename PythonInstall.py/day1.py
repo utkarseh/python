@@ -9,3 +9,7 @@ print("tommmorrow is the dayssdfsfijdijiwhofuigwefou")
 print("tommmorrow is the dayssdfsfijdijiwhofuigwefouuygdudgiohdi")
 print("tommmorrow is the dayssdfsfijdijiwhofuigwefouuygdudgiohdiwuefhusisdgdy")
 print("tommmorrow is the dayssdfsfijdijiwhofuigwefouuygdudgiohdiwuefhusisdgdyfuehfuhjfdutet")
+a=[1,2]
+b=[3,4]
+a.extend(b)
+print(a)
